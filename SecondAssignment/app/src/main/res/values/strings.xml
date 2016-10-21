@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Second Assignment(b)</string>
+    <string name="card_balance">Enter Card Balance ($)</string>
+    <string name="yearly_interest">Enter Yearly Interest Rate (%)</string>
+    <string name="minimum_payment">Enter Minimum Payment ($)</string>
+    <string name="final_card_balance">Final Card Balance</string>
+    <string name="months">Months Remaining</string>
+    <string name="interest_paid">Interest Paid Will Be ($)</string>
+    <string name="bcompute">COMPUTE</string>
+    <string name="bclear">CLEAR</string>
+</resources>
